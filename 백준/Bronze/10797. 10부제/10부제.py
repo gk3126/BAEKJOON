@@ -9,3 +9,8 @@ for i in range(5):
         a += 1
 
 print(a)
+
+# 이런 식으로도 풀기 가능.
+# n = int(input())
+# car = list(map(int,input().split())) (입력한 정수를 띄어쓰기로 구분하여 리스트에 저장.)
+# print(car.count(n))
